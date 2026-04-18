@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🌱 I'm currently learning **AI Infra** and various other things.
+- 🎓 I am an undergraduate student at the **University of Essex**.
+- ❓ Ask me about anything related to my repositories.
+- 😴 Fun fact: sleeping...
+
 <!--
 **D1376/D1376** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
