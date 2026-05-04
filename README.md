@@ -1,9 +1,9 @@
 # Hi, I'm Shihao 👋
-### 🎓 CS Undergraduate @ University of Essex · 🤖 AI Infra Apprentice
+### 🎓 CS Undergraduate @ University of Essex · 🤖 AI Infra Enthusiast
 
 > Learning how LLMs are served and squeezed — by re-implementing them from scratch and building small tools along the way.
 
-I'm a computer science undergrad based in the UK, spending most of my cycles on the **AI infrastructure** stack: inference, quantization, and serving. I learn best by reading good codebases line-by-line and shipping tiny, focused tools.
+I'm a computer science undergrad based in the UK, spending most of my cycles on the **AI infrastructure** stack: inference, quantization, and serving. I learn best by reading good codebases and shipping tiny, focused tools.
 
 ---
 
