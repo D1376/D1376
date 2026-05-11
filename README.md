@@ -1,5 +1,5 @@
 # Hi, I'm Shihao 👋
-### 🎓 CS Undergraduate @ University of Essex · 🤖 Learning AI Infra
+### 🎓 CS Undergraduate @ University of Essex
 
 > Learning how LLMs are served and squeezed — by re-implementing them from scratch and building small tools along the way.
 
