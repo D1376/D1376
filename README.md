@@ -4,7 +4,7 @@
 
 > Learning how LLMs are built, served, and optimized by re-implementing core systems from scratch and building small tools along the way.
 
-I'm a computer science undergraduate based in the UK, currently focused on the **AI infrastructure** stack, especially inference and serving. I learn best by reading high-quality codebases, rebuilding core ideas from first principles, and shipping small, focused tools.
+I'm a computer science undergraduate based in the UK, currently focused on the **AI infrastructure** stack, especially inference and serving.
 
 ---
 
