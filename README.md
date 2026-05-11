@@ -1,18 +1,19 @@
 # Hi, I'm Shihao 👋
-### 🎓 CS Undergraduate @ University of Essex
 
-> Learning how LLMs are served and squeezed — by re-implementing them from scratch and building small tools along the way.
+### 🎓 Computer Science Undergraduate @ University of Essex
 
-I'm a computer science undergrad based in the UK, spending most of my cycles on the **AI infrastructure** stack: inference & serving. I learn best by reading good codebases and shipping tiny, focused tools.
+> Learning how LLMs are built, served, and optimized by re-implementing core systems from scratch and building small tools along the way.
+
+I'm a computer science undergraduate based in the UK, currently focused on the **AI infrastructure** stack, especially inference and serving. I learn best by reading high-quality codebases, rebuilding core ideas from first principles, and shipping small, focused tools.
 
 ---
 
 ## 🚀 Current Projects
 
-- 🐍 **[SGLite](https://github.com/D1376/SGLite)** — A lightweight take on SGLang internals — minimal, hackable, easy to read.
-- 🦀 **[llmpk](https://github.com/D1376/llmpk)** — Terminal TUI for comparing LLM models across leaderboards. Pulls rankings from Artificial Analysis and Arena (text, vision, code, image/video) with a single keypress. Rust + ratatui, no API keys, no browser.
-- 🎨 **[typora-ink-theme](https://github.com/D1376/typora-ink-theme)** — A clean Typora theme inspired by Kami. Good content deserves good paper.
-- ⚙️ **[dotfiles](https://github.com/D1376/dotfiles)** — My Neovim / terminal setup, in Lua.
+- 🐍 **[SGLite](https://github.com/D1376/SGLite)**: A lightweight exploration of SGLang internals, designed to be minimal, readable, and easy to understand.
+- 🦀 **[llmpk](https://github.com/D1376/llmpk)**: A terminal TUI for comparing LLMs across leaderboards. It pulls rankings from Artificial Analysis and Arena, covering text, vision, code, image, and video models with a single keypress. Built with Rust and ratatui. No API keys, no browser required.
+- 🎨 **[typora-ink-theme](https://github.com/D1376/typora-ink-theme)**: A clean Typora theme inspired by Kami. Good content deserves good paper.
+- ⚙️ **[dotfiles](https://github.com/D1376/dotfiles)**: My Neovim and terminal setup, written mostly in Lua.
 
 ---
 
@@ -38,12 +39,13 @@ I'm a computer science undergrad based in the UK, spending most of my cycles on 
 - 💻 GitHub: [@D1376](https://github.com/D1376)
 - 📍 UK
 
+---
+
 ## 💡 Random Facts
 
-- Neovim user, dotfiles maximalist
-- Convinced the fastest way to learn AI infra is to re-implement it
-- Coffee while reading papers, tea while writing code
+- Neovim user and dotfiles maximalist
+- Still debugging my sleep schedule
 
 ---
 
-⚡ *Build small. Read deep. Ship often.*
+⚡ *Build small. Read deep.*
