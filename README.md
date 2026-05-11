@@ -3,7 +3,7 @@
 
 > Learning how LLMs are served and squeezed — by re-implementing them from scratch and building small tools along the way.
 
-I'm a computer science undergrad based in the UK, spending most of my cycles on the **AI infrastructure** stack: inference, quantization, and serving. I learn best by reading good codebases and shipping tiny, focused tools.
+I'm a computer science undergrad based in the UK, spending most of my cycles on the **AI infrastructure** stack: inference & serving. I learn best by reading good codebases and shipping tiny, focused tools.
 
 ---
 
