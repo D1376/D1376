@@ -12,7 +12,6 @@ I'm a computer science undergraduate based in the UK, currently focused on the *
 
 - 🐍 **[SGLite](https://github.com/D1376/SGLite)**: A lightweight exploration of SGLang internals, designed to be minimal, readable, and easy to understand.
 - 🦀 **[llmpk](https://github.com/D1376/llmpk)**: A terminal TUI for comparing LLMs across leaderboards. It pulls rankings from Artificial Analysis and Arena, covering text, vision, code, image, and video models with a single keypress. Built with Rust and ratatui. No API keys, no browser required.
-- 🎨 **[typora-ink-theme](https://github.com/D1376/typora-ink-theme)**: A clean Typora theme inspired by Kami. Good content deserves good paper.
 - ⚙️ **[dotfiles](https://github.com/D1376/dotfiles)**: My Neovim and terminal setup.
 
 ---
